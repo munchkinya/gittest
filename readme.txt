@@ -1,4 +1,4 @@
 git学习测试，测试修改内容again again
 新增了一个dev分支
 在master分支上测试feature分支合并
-在本地dev上，我新增了一句话
+本地dev分支，我的同事完成了功能
